@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context=".LocationActivity" >
+
+    <TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/speed"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="left"
+        android:gravity="center"
+        android:text="@string/int_speed"
+        android:textColor="#FF0000"
+        android:textSize="180sp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+</LinearLayout>

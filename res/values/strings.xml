@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Speedo</string>
+    <string name="int_speed">&#8230;</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="enable_gps_dialog">GPS provider not enabled. Would you like to enable it?</string>
+    <string name="unknown">--Unknown--</string>
+    <string name="not_support_gps">GPS provider not supported</string>
+    <string name="not_support_network">Network provider not supported</string>
+    <string name="gmeter_view">View Gmeter</string>
+	<string name="speedo_view">View Speedo</string>
+</resources>

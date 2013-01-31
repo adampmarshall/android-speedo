@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/speedo_view" 
+        android:title="@string/speedo_view" />
+    <item android:id="@+id/gmeter_view" 
+        android:title="@string/gmeter_view" />
+</menu>
